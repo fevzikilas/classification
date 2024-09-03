@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "classification"
+  site-url: "https://fevzikilas.github.io/classification"
+  description: "Classification algorithms"
+  repo-branch: main
+  repo-url: "https://github.com/fevzikilas/classification"
